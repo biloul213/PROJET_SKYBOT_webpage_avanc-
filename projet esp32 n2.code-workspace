@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "projet esp32 n2",
+			"path": "../projet esp32 n2"
+		},
+		{
+			"name": "pageweb esp32",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
